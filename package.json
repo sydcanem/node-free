@@ -1,0 +1,31 @@
+{
+  "name": "node-free",
+  "version": "1.0.0",
+  "description": "Get OS memory stats in OSX and Linux.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sydcanem/node-free"
+  },
+  "keywords": [
+    "free",
+    "memory",
+    "stats",
+    "statistics",
+    "os",
+    "linux",
+    "darwin"
+  ],
+  "author": "James Santos <icqhv.santos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sydcanem/node-free/issues"
+  },
+  "homepage": "https://github.com/sydcanem/node-free"
+}
